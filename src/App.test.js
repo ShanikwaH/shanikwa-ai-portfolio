@@ -1,8 +1,12 @@
 import { render, screen } from '@testing-library/react';
 import App from './App';
 
-test('renders learn react link', () => {
+test('renders the portfolio header', () => {
   render(<App />);
-  const linkElement = screen.getByText(/learn react/i);
-  expect(linkElement).toBeInTheDocument();
+  expect(screen.getByText(/AI-Powered Portfolio/i)).toBeInTheDocument();
+});
+
+test('renders the default Overview tab', () => {
+  render(<App />);
+  expect(screen.getAllByText(/Overview/i).length).toBeGreaterThan(0);
 });
