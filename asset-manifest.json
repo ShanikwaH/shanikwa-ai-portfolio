@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/shanikwa-ai-portfolio/static/css/main.5e41044a.css",
-    "main.js": "/shanikwa-ai-portfolio/static/js/main.1bda6e4c.js",
+    "main.js": "/shanikwa-ai-portfolio/static/js/main.93ceaf41.js",
     "index.html": "/shanikwa-ai-portfolio/index.html",
     "main.5e41044a.css.map": "/shanikwa-ai-portfolio/static/css/main.5e41044a.css.map",
-    "main.1bda6e4c.js.map": "/shanikwa-ai-portfolio/static/js/main.1bda6e4c.js.map"
+    "main.93ceaf41.js.map": "/shanikwa-ai-portfolio/static/js/main.93ceaf41.js.map"
   },
   "entrypoints": [
     "static/css/main.5e41044a.css",
-    "static/js/main.1bda6e4c.js"
+    "static/js/main.93ceaf41.js"
   ]
 }
